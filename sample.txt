@@ -1,0 +1,8 @@
+git clone <<URL>>
+git commit -m "<<>>"
+git push origin <<>>
+git checkout -b <<new branch name>>
+git checkout <<branch_name>>
+git branch -a 
+git pull origin <<branch_name>>
+git status
